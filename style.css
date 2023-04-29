@@ -5,3 +5,17 @@
 .paragraphBackground{
     background-color: lightgrey;
 }
+
+#certsStyleClass{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.htmlStyleClass{
+    margin-left: 50px;
+}
+
+p {
+    margin-right: 200px;
+}
